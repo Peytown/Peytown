@@ -4,7 +4,8 @@
 </div>
 
 # 💫 About Me:
-My name is Peyton. I am currently a student at Arizona State University looking to enhance my knowledge and skills within the IT/CIS space! I had previously graduated from Scottsdale Community with a 4.0gpa in Cybersecurity and I am looking to hone my skills and find out what I enjoy the most!<br><br>I have a lot of plans in mind for future projects. One includes making a website for a series that means a lot to me, though that will take a lot more learning about website creation through ASU, and another would be to attempt creating a video game! I am not sure how long those projects will take, considering I am a novice at the moment, but I am here for the journey.<br><br>
+My name is Peyton. I am currently a student at Arizona State University looking to enhance my knowledge and skills within the IT/CIS space! I had previously graduated from Scottsdale Community with a 4.0gpa in Cybersecurity and I am looking to hone my skills and find out what I enjoy the most!<br><br>I have a lot of plans in mind for future projects. One includes making a website for a series that means a lot to me, though that will take a lot more learning about website creation through ASU, and another would be to attempt creating a video game! My favorite thing about this stuff is the amount of information you can learn. I absolutely love seeing projects come to life. Though I'm not sure how long these projects will exactly take, considering I am a novice at the moment, I am here for the journey and I am happy to struggle through it!<br><br>
+My hope is that after graduation I will be placed in a spot where I can pursue things I really enjoy. I am a very creatively driven person, so I hope that wherever I land gives me the opportunity to exhaust my brain juice!<br><br>
 I'm very excited to see what I can do in the future!
 
 
