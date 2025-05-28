@@ -3,9 +3,14 @@
   <img height="275" src="https://i.imgur.com/bPOiltN.gif"  />
 </div>
 
-I am Peyton, currently a student at Arizona State University looking to enhance my knowledge and skills within the IT/CIS space! I had previously graduated from Scottsdale Community with a 4.0gpa in Cybersecurity and I am looking to hone my skills and find out what I enjoy the most!
+# 💫 About Me:
+My name is Peyton. I am currently a student at Arizona State University looking to enhance my knowledge and skills within the IT/CIS space! I had previously graduated from Scottsdale Community with a 4.0gpa in Cybersecurity and I am looking to hone my skills and find out what I enjoy the most!<br><br>I have a lot of plans in mind for future projects. One includes making a website for a series that means a lot to me, though that will take a lot more learning about website creation through ASU, and another would be to attempt creating a video game! I am not sure how long those projects will take, considering I am a novice at the moment, but I am here for the journey.<br><br>
+I'm very excited to see what I can do in the future!
 
-Currently, I am planning on making a website for a series I really enjoy after learning more about website creation through ASU, (community driven project), and I am looking forwards to attempting to create a video game in the foreseeable future!
+
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Peytown&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
